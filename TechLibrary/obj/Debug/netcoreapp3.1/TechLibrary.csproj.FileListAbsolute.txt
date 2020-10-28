@@ -1,0 +1,117 @@
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/TechLibrary.deps.json
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/TechLibrary.runtimeconfig.json
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/TechLibrary.runtimeconfig.dev.json
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/TechLibrary.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/TechLibrary.pdb
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/obj/Debug/netcoreapp3.1/TechLibrary.csprojAssemblyReference.cache
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/obj/Debug/netcoreapp3.1/TechLibrary.csproj.CoreCompileInputs.cache
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/obj/Debug/netcoreapp3.1/TechLibrary.MvcApplicationPartsAssemblyInfo.cache
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/obj/Debug/netcoreapp3.1/TechLibrary.AssemblyInfoInputs.cache
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/obj/Debug/netcoreapp3.1/TechLibrary.AssemblyInfo.cs
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/obj/Debug/netcoreapp3.1/TechLibrary.RazorTargetAssemblyInfo.cache
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/obj/Debug/netcoreapp3.1/TechLibrary.csproj.CopyComplete
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/obj/Debug/netcoreapp3.1/staticwebassets/TechLibrary.StaticWebAssets.Manifest.cache
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/obj/Debug/netcoreapp3.1/staticwebassets/TechLibrary.StaticWebAssets.xml
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/obj/Debug/netcoreapp3.1/TechLibrary.dll
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/obj/Debug/netcoreapp3.1/TechLibrary.pdb
+/Users/priyanktrivedi/Desktop/Test/TechLibrary/obj/Debug/netcoreapp3.1/TechLibrary.genruntimeconfig.cache
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\TechLibrary.exe
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\TechLibrary.deps.json
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\TechLibrary.runtimeconfig.json
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\TechLibrary.runtimeconfig.dev.json
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\TechLibrary.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\TechLibrary.pdb
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\obj\Debug\netcoreapp3.1\TechLibrary.csproj.CoreCompileInputs.cache
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\obj\Debug\netcoreapp3.1\TechLibrary.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\obj\Debug\netcoreapp3.1\TechLibrary.AssemblyInfoInputs.cache
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\obj\Debug\netcoreapp3.1\TechLibrary.AssemblyInfo.cs
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\obj\Debug\netcoreapp3.1\TechLibrary.RazorTargetAssemblyInfo.cache
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\obj\Debug\netcoreapp3.1\TechLibrary.csproj.CopyComplete
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\obj\Debug\netcoreapp3.1\staticwebassets\TechLibrary.StaticWebAssets.Manifest.cache
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\obj\Debug\netcoreapp3.1\staticwebassets\TechLibrary.StaticWebAssets.xml
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\obj\Debug\netcoreapp3.1\TechLibrary.dll
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\obj\Debug\netcoreapp3.1\TechLibrary.pdb
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\obj\Debug\netcoreapp3.1\TechLibrary.genruntimeconfig.cache
+D:\New folder (5)\TechLibraryExercise-master\TechLibrary\obj\Debug\netcoreapp3.1\TechLibrary.csprojAssemblyReference.cache
